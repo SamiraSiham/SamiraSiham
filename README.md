@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirasiham&label=Profile%20views&color=0e75b6&style=flat" alt="samirasiham" /> </p>
 
-- 🔭 I’m currently working on [simple_shell](https://github.com/SamiraSiham/simple_shell)
+- 🔭 I’m currently working on [stockage management]([https://github.com/SamiraSiham/simple_shell](https://github.com/SamiraSiham/focus-stock-management))
 
-- 🌱 I’m currently learning **C, Java and Spring boot**
+- 🌱 I’m currently learning **Java and Spring boot**
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Laravel, ReactJS, Bootstrap, MongoDB, MySQL, ExpressJS, Git and DiscordJS**
 
