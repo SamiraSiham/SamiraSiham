@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirasiham&label=Profile%20views&color=0e75b6&style=flat" alt="samirasiham" /> </p>
 
-- 🔭 I’m currently working on [stock management](https://github.com/SamiraSiham/simple_shell](https://github.com/SamiraSiham/focus-stock-management))
+- 🔭 I’m currently working on [NotePilot]([[https://github.com/SamiraSiham/NotePilot](https://github.com/SamiraSiham/NotePilot)]](https://github.com/SamiraSiham/NotePilot))
 
 - 🌱 I’m currently learning **Java and Spring boot**
 
