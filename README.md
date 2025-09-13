@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samira Siham</h1>
-<h3 align="center">A passionate fullstack web developer / discord bot developer from Morocco.</h3>
+<h3 align="center">A passionate fullstack web developer / discord bot developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1069382717705302156/1183172338724913212/pic_3.jpg?ex=65875e1b&is=6574e91b&hm=7ce2a1f225746ee555a154f335cfc8d07b3cffa04b4cd90b3840ad74b7c8492c&"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirasiham&label=Profile%20views&color=0e75b6&style=flat" alt="samirasiham" /> </p>
